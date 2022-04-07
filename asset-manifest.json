@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sih/static/css/main.78bbe6d5.css",
+    "main.js": "/sih/static/js/main.e7f8f87f.js",
+    "static/media/hero.jpg": "/sih/static/media/hero.45aca420194409e923c3.jpg",
+    "index.html": "/sih/index.html",
+    "main.78bbe6d5.css.map": "/sih/static/css/main.78bbe6d5.css.map",
+    "main.e7f8f87f.js.map": "/sih/static/js/main.e7f8f87f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78bbe6d5.css",
+    "static/js/main.e7f8f87f.js"
+  ]
+}
