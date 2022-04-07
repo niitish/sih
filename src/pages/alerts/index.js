@@ -41,7 +41,7 @@ const Alerts = () => {
               <Button
                 variant="outline-danger"
                 as={Link}
-                to={{ pathname: "/alert/create", state: { ...city } }}
+                to={{ pathname: "/sih/alert/create", state: { ...city } }}
               >
                 Send alert
               </Button>

@@ -15,7 +15,7 @@ const NavBar = () => {
 
   const logoutHandler = () => {
     ctx.logout();
-    history.push("/");
+    history.push("/sih");
   };
 
   return (
@@ -27,27 +27,27 @@ const NavBar = () => {
       variant="dark"
     >
       <Container>
-        <Link to="/">
+        <Link to="/sih">
           <Navbar.Brand>Weather Mass</Navbar.Brand>
         </Link>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
             {ctx.isLoggedIn && (
-              <Nav.Link as={Link} to="/alert">
+              <Nav.Link as={Link} to="/sih/alert">
                 Current alerts
               </Nav.Link>
             )}
-            <Nav.Link as={Link} to="/faq">
+            <Nav.Link as={Link} to="/sih/faq">
               FAQ
             </Nav.Link>
-            <Nav.Link as={Link} to="/about">
+            <Nav.Link as={Link} to="/sih/about">
               About us
             </Nav.Link>
-            <Nav.Link as={Link} to="/contact">
+            <Nav.Link as={Link} to="/sih/contact">
               Contact
             </Nav.Link>
-            <Nav.Link as={Link} to="/map">
+            <Nav.Link as={Link} to="/sih/map">
               View data
             </Nav.Link>
           </Nav>

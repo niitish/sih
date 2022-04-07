@@ -59,19 +59,19 @@ const App = () => {
         }
       >
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/sih">
             <Home />
           </Route>
-          <Route exact path="/map">
+          <Route exact path="/sih/map">
             <Map />
           </Route>
-          <Route exact path="/about">
+          <Route exact path="/sih/about">
             <About />
           </Route>
-          <Route exact path="/alert">
+          <Route exact path="/sih/alert">
             <Alerts />
           </Route>
-          <Route exact path="/alert/create">
+          <Route exact path="/sih/alert/create">
             <CreateAlert />
           </Route>
         </Switch>
