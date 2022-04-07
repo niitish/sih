@@ -1,0 +1,4388 @@
+[
+    {
+        "title": "UTTAR_DINAJPUR",
+        "id": "412",
+        "color": "#7CFC00",
+        "balloonText": "UTTAR_DINAJPUR :<\/br>No warning<p><\/p><p>Updated on:2021-07-12<\/p>"
+    },
+    {
+        "title": "YANAM",
+        "id": "677",
+        "color": "#7CFC00",
+        "balloonText": "YANAM :<\/br>No warning<p><\/p><p>Updated on:2022-01-22<\/p>"
+    },
+    {
+        "title": "DHALAI",
+        "id": "305",
+        "color": "#7CFC00",
+        "balloonText": "DHALAI :<\/br>No warning<p><\/p><p>Updated on:2022-03-14<\/p>"
+    },
+    {
+        "title": "NORTH TRIPURA",
+        "id": "318",
+        "color": "#7CFC00",
+        "balloonText": "NORTH TRIPURA :<\/br>No warning<p><\/p><p>Updated on:2022-03-14<\/p>"
+    },
+    {
+        "title": "SOUTH TRIPURA",
+        "id": "287",
+        "color": "#7CFC00",
+        "balloonText": "SOUTH TRIPURA :<\/br>No warning<p><\/p><p>Updated on:2022-03-14<\/p>"
+    },
+    {
+        "title": "WEST TRIPURA",
+        "id": "303",
+        "color": "#7CFC00",
+        "balloonText": "WEST TRIPURA :<\/br>No warning<p><\/p><p>Updated on:2022-03-14<\/p>"
+    },
+    {
+        "title": "GOMATI",
+        "id": "701",
+        "color": "#7CFC00",
+        "balloonText": "GOMATI :<\/br>No warning<p><\/p><p>Updated on:2022-03-14<\/p>"
+    },
+    {
+        "title": "KHOWAI",
+        "id": "702",
+        "color": "#7CFC00",
+        "balloonText": "KHOWAI :<\/br>No warning<p><\/p><p>Updated on:2022-03-14<\/p>"
+    },
+    {
+        "title": "SEPAHIJALA",
+        "id": "704",
+        "color": "#7CFC00",
+        "balloonText": "SEPAHIJALA :<\/br>No warning<p><\/p><p>Updated on:2022-03-14<\/p>"
+    },
+    {
+        "title": "UNOKOTI",
+        "id": "726",
+        "color": "#7CFC00",
+        "balloonText": "UNOKOTI :<\/br>No warning<p><\/p><p>Updated on:2022-03-14<\/p>"
+    },
+    {
+        "title": "NICOBAR",
+        "id": "573",
+        "color": "#7CFC00",
+        "balloonText": "NICOBAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-23<\/p>"
+    },
+    {
+        "title": "JORHAT",
+        "id": "456",
+        "color": "#7CFC00",
+        "balloonText": "JORHAT :<\/br>No warning<p><\/p><p>Updated on:2022-03-23<\/p>"
+    },
+    {
+        "title": "MAHENDRAGARH",
+        "id": "479",
+        "color": "#7CFC00",
+        "balloonText": "MAHENDRAGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-23<\/p>"
+    },
+    {
+        "title": "RAIPUR",
+        "id": "594",
+        "color": "#7CFC00",
+        "balloonText": "RAIPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-23<\/p>"
+    },
+    {
+        "title": "SOUTH ANDAMAN",
+        "id": "572",
+        "color": "#7CFC00",
+        "balloonText": "SOUTH ANDAMAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-23<\/p>"
+    },
+    {
+        "title": "ANJAW",
+        "id": "513",
+        "color": "#FFFF00",
+        "balloonText": "ANJAW :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHANGLANG",
+        "id": "482",
+        "color": "#FFFF00",
+        "balloonText": "CHANGLANG :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "EAST KAMENG",
+        "id": "480",
+        "color": "#FFFF00",
+        "balloonText": "EAST KAMENG :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "EAST SIANG",
+        "id": "507",
+        "color": "#FFFF00",
+        "balloonText": "EAST SIANG :<\/br><img src=warning_images\/01.png style='width: 28px ; height:28px;float: left;'><p>Heavy Rain<\/p><\/img><\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KURUNG KUMEY",
+        "id": "500",
+        "color": "#7CFC00",
+        "balloonText": "KURUNG KUMEY :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LOHIT",
+        "id": "628",
+        "color": "#FFFF00",
+        "balloonText": "LOHIT :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LOWER DIBANG VALLEY",
+        "id": "657",
+        "color": "#FFFF00",
+        "balloonText": "LOWER DIBANG VALLEY :<\/br><img src=warning_images\/01.png style='width: 28px ; height:28px;float: left;'><p>Heavy Rain<\/p><\/img><\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LOWER SUBANSIRI",
+        "id": "484",
+        "color": "#FFFF00",
+        "balloonText": "LOWER SUBANSIRI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PAPUM PARE",
+        "id": "470",
+        "color": "#7CFC00",
+        "balloonText": "PAPUM PARE :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "TAWANG",
+        "id": "25",
+        "color": "#7CFC00",
+        "balloonText": "TAWANG :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "TIRAP",
+        "id": "466",
+        "color": "#FFFF00",
+        "balloonText": "TIRAP :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UPPER SIANG",
+        "id": "524",
+        "color": "#FFFF00",
+        "balloonText": "UPPER SIANG :<\/br><img src=warning_images\/01.png style='width: 28px ; height:28px;float: left;'><p>Heavy Rain<\/p><\/img><\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UPPER SUBANSIRI",
+        "id": "510",
+        "color": "#7CFC00",
+        "balloonText": "UPPER SUBANSIRI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WEST KAMENG",
+        "id": "24",
+        "color": "#7CFC00",
+        "balloonText": "WEST KAMENG :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WEST SIANG",
+        "id": "517",
+        "color": "#7CFC00",
+        "balloonText": "WEST SIANG :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BAKSA",
+        "id": "21",
+        "color": "#FFFF00",
+        "balloonText": "BAKSA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BARPETA",
+        "id": "27",
+        "color": "#FFFF00",
+        "balloonText": "BARPETA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BONGAIGAON",
+        "id": "26",
+        "color": "#7CFC00",
+        "balloonText": "BONGAIGAON :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CACHAR",
+        "id": "360",
+        "color": "#FFFF00",
+        "balloonText": "CACHAR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHIRANG",
+        "id": "18",
+        "color": "#7CFC00",
+        "balloonText": "CHIRANG :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DARRANG",
+        "id": "16",
+        "color": "#7CFC00",
+        "balloonText": "DARRANG :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DHEMAJI",
+        "id": "623",
+        "color": "#FFFF00",
+        "balloonText": "DHEMAJI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DHUBRI",
+        "id": "9",
+        "color": "#7CFC00",
+        "balloonText": "DHUBRI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GOALPARA",
+        "id": "12",
+        "color": "#FFFF00",
+        "balloonText": "GOALPARA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/07.png style='width: 28px ; height:28px;float: left;'><p>Strong Surface Winds<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GOLAGHAT",
+        "id": "446",
+        "color": "#FFFF00",
+        "balloonText": "GOLAGHAT :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/07.png style='width: 28px ; height:28px;float: left;'><p>Strong Surface Winds<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HAILAKANDI",
+        "id": "337",
+        "color": "#7CFC00",
+        "balloonText": "HAILAKANDI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KARIMGANJ",
+        "id": "340",
+        "color": "#FFFF00",
+        "balloonText": "KARIMGANJ :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/07.png style='width: 28px ; height:28px;float: left;'><p>Strong Surface Winds<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KOKRAJHAR",
+        "id": "17",
+        "color": "#FFFF00",
+        "balloonText": "KOKRAJHAR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BALARAMPUR",
+        "id": "288",
+        "color": "#7CFC00",
+        "balloonText": "BALARAMPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MORIGAON",
+        "id": "14",
+        "color": "#7CFC00",
+        "balloonText": "MORIGAON :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DIMA HASAO",
+        "id": "393",
+        "color": "#FFFF00",
+        "balloonText": "DIMA HASAO :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/07.png style='width: 28px ; height:28px;float: left;'><p>Strong Surface Winds<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NAGAON",
+        "id": "19",
+        "color": "#7CFC00",
+        "balloonText": "NAGAON :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SIBSAGAR",
+        "id": "462",
+        "color": "#FFFF00",
+        "balloonText": "SIBSAGAR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/07.png style='width: 28px ; height:28px;float: left;'><p>Strong Surface Winds<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "TINSUKIA",
+        "id": "494",
+        "color": "#FFFF00",
+        "balloonText": "TINSUKIA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/07.png style='width: 28px ; height:28px;float: left;'><p>Strong Surface Winds<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UDALGURI",
+        "id": "22",
+        "color": "#7CFC00",
+        "balloonText": "UDALGURI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "EAST GARO HILLS",
+        "id": "6",
+        "color": "#7CFC00",
+        "balloonText": "EAST GARO HILLS :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "EAST KHASI HILLS",
+        "id": "2",
+        "color": "#FFFF00",
+        "balloonText": "EAST KHASI HILLS :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SOUTH GARO HILLS",
+        "id": "1",
+        "color": "#FFFF00",
+        "balloonText": "SOUTH GARO HILLS :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WEST GARO HILLS",
+        "id": "5",
+        "color": "#7CFC00",
+        "balloonText": "WEST GARO HILLS :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WEST KHASI HILLS",
+        "id": "4",
+        "color": "#7CFC00",
+        "balloonText": "WEST KHASI HILLS :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DIMAPUR",
+        "id": "402",
+        "color": "#7CFC00",
+        "balloonText": "DIMAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KOHIMA",
+        "id": "624",
+        "color": "#FFFF00",
+        "balloonText": "KOHIMA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LONGLENG",
+        "id": "626",
+        "color": "#FFFF00",
+        "balloonText": "LONGLENG :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MOKOKCHUNG",
+        "id": "625",
+        "color": "#FFFF00",
+        "balloonText": "MOKOKCHUNG :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MON",
+        "id": "451",
+        "color": "#FFFF00",
+        "balloonText": "MON :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PHEK",
+        "id": "403",
+        "color": "#7CFC00",
+        "balloonText": "PHEK :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "TUENSANG",
+        "id": "443",
+        "color": "#7CFC00",
+        "balloonText": "TUENSANG :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WOKHA",
+        "id": "436",
+        "color": "#FFFF00",
+        "balloonText": "WOKHA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ZUNHEBOTO",
+        "id": "423",
+        "color": "#7CFC00",
+        "balloonText": "ZUNHEBOTO :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BISHNUPUR",
+        "id": "332",
+        "color": "#7CFC00",
+        "balloonText": "BISHNUPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHANDEL",
+        "id": "331",
+        "color": "#FFFF00",
+        "balloonText": "CHANDEL :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "IMPHAL EAST",
+        "id": "357",
+        "color": "#FFFF00",
+        "balloonText": "IMPHAL EAST :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "IMPHAL WEST",
+        "id": "350",
+        "color": "#FFFF00",
+        "balloonText": "IMPHAL WEST :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SENAPATI",
+        "id": "388",
+        "color": "#7CFC00",
+        "balloonText": "SENAPATI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "TAMENGLONG",
+        "id": "376",
+        "color": "#FFFF00",
+        "balloonText": "TAMENGLONG :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "THOUBAL",
+        "id": "347",
+        "color": "#7CFC00",
+        "balloonText": "THOUBAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UKHRUL",
+        "id": "395",
+        "color": "#7CFC00",
+        "balloonText": "UKHRUL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHAMPHAI",
+        "id": "300",
+        "color": "#7CFC00",
+        "balloonText": "CHAMPHAI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KOLASIB",
+        "id": "317",
+        "color": "#FFFF00",
+        "balloonText": "KOLASIB :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LAWNGTLAI",
+        "id": "247",
+        "color": "#7CFC00",
+        "balloonText": "LAWNGTLAI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LUNGLEI",
+        "id": "277",
+        "color": "#7CFC00",
+        "balloonText": "LUNGLEI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SAIHA",
+        "id": "251",
+        "color": "#7CFC00",
+        "balloonText": "SAIHA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SERCHHIP",
+        "id": "282",
+        "color": "#7CFC00",
+        "balloonText": "SERCHHIP :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "EAST SIKKIM",
+        "id": "449",
+        "color": "#FFFF00",
+        "balloonText": "EAST SIKKIM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NORTH SIKKIM",
+        "id": "473",
+        "color": "#FFFF00",
+        "balloonText": "NORTH SIKKIM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SOUTH SIKKIM",
+        "id": "450",
+        "color": "#7CFC00",
+        "balloonText": "SOUTH SIKKIM :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WEST SIKKIM",
+        "id": "455",
+        "color": "#7CFC00",
+        "balloonText": "WEST SIKKIM :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JALPAIGURI",
+        "id": "20",
+        "color": "#FFFF00",
+        "balloonText": "JALPAIGURI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MALDA",
+        "id": "362",
+        "color": "#FFFF00",
+        "balloonText": "MALDA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BANKURA",
+        "id": "274",
+        "color": "#7CFC00",
+        "balloonText": "BANKURA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BIRBHUM",
+        "id": "310",
+        "color": "#7CFC00",
+        "balloonText": "BIRBHUM :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MURSHIDABAD",
+        "id": "322",
+        "color": "#7CFC00",
+        "balloonText": "MURSHIDABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NADIA",
+        "id": "290",
+        "color": "#7CFC00",
+        "balloonText": "NADIA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BHADRAK",
+        "id": "196",
+        "color": "#7CFC00",
+        "balloonText": "BHADRAK :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CUTTACK",
+        "id": "182",
+        "color": "#7CFC00",
+        "balloonText": "CUTTACK :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DEOGARH",
+        "id": "205",
+        "color": "#7CFC00",
+        "balloonText": "DEOGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GANJAM",
+        "id": "171",
+        "color": "#7CFC00",
+        "balloonText": "GANJAM :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JAGATSINGHPUR",
+        "id": "175",
+        "color": "#7CFC00",
+        "balloonText": "JAGATSINGHPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JHARSUGUDA",
+        "id": "595",
+        "color": "#7CFC00",
+        "balloonText": "JHARSUGUDA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KALAHANDI",
+        "id": "173",
+        "color": "#7CFC00",
+        "balloonText": "KALAHANDI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KANDHAMAL",
+        "id": "178",
+        "color": "#7CFC00",
+        "balloonText": "KANDHAMAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KORAPUT",
+        "id": "152",
+        "color": "#7CFC00",
+        "balloonText": "KORAPUT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MALKANGIRI",
+        "id": "142",
+        "color": "#7CFC00",
+        "balloonText": "MALKANGIRI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PURI",
+        "id": "170",
+        "color": "#7CFC00",
+        "balloonText": "PURI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SAMBALPUR",
+        "id": "217",
+        "color": "#7CFC00",
+        "balloonText": "SAMBALPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SUNDARGARH",
+        "id": "228",
+        "color": "#7CFC00",
+        "balloonText": "SUNDARGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ARWAL",
+        "id": "339",
+        "color": "#7CFC00",
+        "balloonText": "ARWAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BANKA",
+        "id": "333",
+        "color": "#7CFC00",
+        "balloonText": "BANKA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BEGUSARAI",
+        "id": "369",
+        "color": "#7CFC00",
+        "balloonText": "BEGUSARAI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KAIMUR",
+        "id": "346",
+        "color": "#7CFC00",
+        "balloonText": "KAIMUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BHAGALPUR",
+        "id": "361",
+        "color": "#7CFC00",
+        "balloonText": "BHAGALPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BHOJPUR",
+        "id": "365",
+        "color": "#7CFC00",
+        "balloonText": "BHOJPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BUXAR",
+        "id": "363",
+        "color": "#7CFC00",
+        "balloonText": "BUXAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GAYA",
+        "id": "324",
+        "color": "#7CFC00",
+        "balloonText": "GAYA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GOPALGANJ",
+        "id": "409",
+        "color": "#7CFC00",
+        "balloonText": "GOPALGANJ :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JEHANABAD",
+        "id": "342",
+        "color": "#7CFC00",
+        "balloonText": "JEHANABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JAMUI",
+        "id": "334",
+        "color": "#7CFC00",
+        "balloonText": "JAMUI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KATIHAR",
+        "id": "378",
+        "color": "#7CFC00",
+        "balloonText": "KATIHAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KHAGARIA",
+        "id": "368",
+        "color": "#7CFC00",
+        "balloonText": "KHAGARIA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KISHANGANJ",
+        "id": "415",
+        "color": "#7CFC00",
+        "balloonText": "KISHANGANJ :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LAKHISARAI",
+        "id": "345",
+        "color": "#7CFC00",
+        "balloonText": "LAKHISARAI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MADHEPURA",
+        "id": "387",
+        "color": "#7CFC00",
+        "balloonText": "MADHEPURA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MUZAFFARPUR",
+        "id": "399",
+        "color": "#7CFC00",
+        "balloonText": "MUZAFFARPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NALANDA",
+        "id": "354",
+        "color": "#7CFC00",
+        "balloonText": "NALANDA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NAWADA",
+        "id": "330",
+        "color": "#7CFC00",
+        "balloonText": "NAWADA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PATNA",
+        "id": "364",
+        "color": "#7CFC00",
+        "balloonText": "PATNA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ROHTAS",
+        "id": "344",
+        "color": "#7CFC00",
+        "balloonText": "ROHTAS :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SAHARSA",
+        "id": "383",
+        "color": "#7CFC00",
+        "balloonText": "SAHARSA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SAMASTIPUR",
+        "id": "381",
+        "color": "#7CFC00",
+        "balloonText": "SAMASTIPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SARAN",
+        "id": "392",
+        "color": "#7CFC00",
+        "balloonText": "SARAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHEIKHPURA",
+        "id": "338",
+        "color": "#7CFC00",
+        "balloonText": "SHEIKHPURA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHEOHAR",
+        "id": "605",
+        "color": "#7CFC00",
+        "balloonText": "SHEOHAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SITAMARHI",
+        "id": "424",
+        "color": "#7CFC00",
+        "balloonText": "SITAMARHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SIWAN",
+        "id": "396",
+        "color": "#7CFC00",
+        "balloonText": "SIWAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SUPAUL",
+        "id": "411",
+        "color": "#7CFC00",
+        "balloonText": "SUPAUL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "VAISHALI",
+        "id": "379",
+        "color": "#7CFC00",
+        "balloonText": "VAISHALI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PRAYAGRAJ",
+        "id": "685",
+        "color": "#7CFC00",
+        "balloonText": "PRAYAGRAJ :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DAUSA",
+        "id": "437",
+        "color": "#7CFC00",
+        "balloonText": "DAUSA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AMETHI",
+        "id": "410",
+        "color": "#7CFC00",
+        "balloonText": "AMETHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AZAMGARH",
+        "id": "398",
+        "color": "#7CFC00",
+        "balloonText": "AZAMGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BALLIA",
+        "id": "386",
+        "color": "#7CFC00",
+        "balloonText": "BALLIA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KUMARAM BHEEM",
+        "id": "161",
+        "color": "#7CFC00",
+        "balloonText": "KUMARAM BHEEM :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BANDA",
+        "id": "370",
+        "color": "#7CFC00",
+        "balloonText": "BANDA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BARABANKI",
+        "id": "440",
+        "color": "#7CFC00",
+        "balloonText": "BARABANKI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BASTI",
+        "id": "432",
+        "color": "#7CFC00",
+        "balloonText": "BASTI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHANDAULI",
+        "id": "355",
+        "color": "#7CFC00",
+        "balloonText": "CHANDAULI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHITRAKOOT",
+        "id": "687",
+        "color": "#7CFC00",
+        "balloonText": "CHITRAKOOT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DEORIA",
+        "id": "417",
+        "color": "#7CFC00",
+        "balloonText": "DEORIA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "FAIZABAD",
+        "id": "420",
+        "color": "#7CFC00",
+        "balloonText": "FAIZABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "FARRUKHABAD",
+        "id": "452",
+        "color": "#7CFC00",
+        "balloonText": "FARRUKHABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "FATEHPUR",
+        "id": "385",
+        "color": "#7CFC00",
+        "balloonText": "FATEHPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GONDA",
+        "id": "686",
+        "color": "#7CFC00",
+        "balloonText": "GONDA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HARDOI",
+        "id": "454",
+        "color": "#7CFC00",
+        "balloonText": "HARDOI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JAUNPUR",
+        "id": "384",
+        "color": "#7CFC00",
+        "balloonText": "JAUNPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KANNAUJ",
+        "id": "438",
+        "color": "#7CFC00",
+        "balloonText": "KANNAUJ :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KANPUR DEHAT",
+        "id": "425",
+        "color": "#7CFC00",
+        "balloonText": "KANPUR DEHAT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KAUSHAMBI",
+        "id": "366",
+        "color": "#7CFC00",
+        "balloonText": "KAUSHAMBI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KHERI",
+        "id": "493",
+        "color": "#7CFC00",
+        "balloonText": "KHERI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LUCKNOW",
+        "id": "435",
+        "color": "#7CFC00",
+        "balloonText": "LUCKNOW :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAHARAJGANJ",
+        "id": "715",
+        "color": "#7CFC00",
+        "balloonText": "MAHARAJGANJ :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAU",
+        "id": "717",
+        "color": "#7CFC00",
+        "balloonText": "MAU :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LOWER SIANG",
+        "id": "53",
+        "color": "#7CFC00",
+        "balloonText": "LOWER SIANG :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SITAPUR",
+        "id": "461",
+        "color": "#7CFC00",
+        "balloonText": "SITAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SONBHADRA",
+        "id": "716",
+        "color": "#7CFC00",
+        "balloonText": "SONBHADRA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SULTANPUR",
+        "id": "401",
+        "color": "#7CFC00",
+        "balloonText": "SULTANPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UNNAO",
+        "id": "429",
+        "color": "#7CFC00",
+        "balloonText": "UNNAO :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "VARANASI",
+        "id": "356",
+        "color": "#7CFC00",
+        "balloonText": "VARANASI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AGRA",
+        "id": "442",
+        "color": "#7CFC00",
+        "balloonText": "AGRA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ALIGARH",
+        "id": "469",
+        "color": "#7CFC00",
+        "balloonText": "ALIGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AURAIYA",
+        "id": "422",
+        "color": "#7CFC00",
+        "balloonText": "AURAIYA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BADAUN",
+        "id": "478",
+        "color": "#7CFC00",
+        "balloonText": "BADAUN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BAGHPAT",
+        "id": "511",
+        "color": "#7CFC00",
+        "balloonText": "BAGHPAT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BAREILLY",
+        "id": "497",
+        "color": "#7CFC00",
+        "balloonText": "BAREILLY :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BIJNOR",
+        "id": "519",
+        "color": "#7CFC00",
+        "balloonText": "BIJNOR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ETAH",
+        "id": "453",
+        "color": "#7CFC00",
+        "balloonText": "ETAH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AURANGABAAD",
+        "id": "181",
+        "color": "#7CFC00",
+        "balloonText": "AURANGABAAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "FIROZABAD",
+        "id": "445",
+        "color": "#7CFC00",
+        "balloonText": "FIROZABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GHAZIABAD",
+        "id": "501",
+        "color": "#7CFC00",
+        "balloonText": "GHAZIABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "VIDISHA",
+        "id": "294",
+        "color": "#7CFC00",
+        "balloonText": "VIDISHA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JALAUN",
+        "id": "397",
+        "color": "#7CFC00",
+        "balloonText": "JALAUN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JHANSI",
+        "id": "374",
+        "color": "#7CFC00",
+        "balloonText": "JHANSI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JYOTIBAPHULE NAGAR",
+        "id": "505",
+        "color": "#7CFC00",
+        "balloonText": "JYOTIBAPHULE NAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LALITPUR",
+        "id": "335",
+        "color": "#7CFC00",
+        "balloonText": "LALITPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAHOBA",
+        "id": "359",
+        "color": "#7CFC00",
+        "balloonText": "MAHOBA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAINPURI",
+        "id": "444",
+        "color": "#7CFC00",
+        "balloonText": "MAINPURI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MATHURA",
+        "id": "465",
+        "color": "#7CFC00",
+        "balloonText": "MATHURA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MEERUT",
+        "id": "509",
+        "color": "#7CFC00",
+        "balloonText": "MEERUT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MORADABAD",
+        "id": "508",
+        "color": "#7CFC00",
+        "balloonText": "MORADABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PILHIBHIT",
+        "id": "498",
+        "color": "#7CFC00",
+        "balloonText": "PILHIBHIT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAMPUR",
+        "id": "684",
+        "color": "#7CFC00",
+        "balloonText": "RAMPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHARANPUR",
+        "id": "533",
+        "color": "#7CFC00",
+        "balloonText": "SHARANPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHAHJAHANPUR",
+        "id": "477",
+        "color": "#7CFC00",
+        "balloonText": "SHAHJAHANPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ALMORA",
+        "id": "522",
+        "color": "#7CFC00",
+        "balloonText": "ALMORA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BAGESHWAR",
+        "id": "530",
+        "color": "#FFFF00",
+        "balloonText": "BAGESHWAR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/04.png style='width: 28px ; height:28px;float: left;'><p><br>Hailstorm<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHAMOLI",
+        "id": "549",
+        "color": "#FFFF00",
+        "balloonText": "CHAMOLI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/04.png style='width: 28px ; height:28px;float: left;'><p><br>Hailstorm<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHAMPAWAT",
+        "id": "514",
+        "color": "#7CFC00",
+        "balloonText": "CHAMPAWAT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DEHRADUN",
+        "id": "547",
+        "color": "#7CFC00",
+        "balloonText": "DEHRADUN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PITHORAGARH",
+        "id": "540",
+        "color": "#FFFF00",
+        "balloonText": "PITHORAGARH :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/04.png style='width: 28px ; height:28px;float: left;'><p><br>Hailstorm<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RUDRAPRAYAG",
+        "id": "539",
+        "color": "#FFFF00",
+        "balloonText": "RUDRAPRAYAG :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/04.png style='width: 28px ; height:28px;float: left;'><p><br>Hailstorm<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UDHAM SINGH NAGAR",
+        "id": "720",
+        "color": "#7CFC00",
+        "balloonText": "UDHAM SINGH NAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AMBALA",
+        "id": "613",
+        "color": "#7CFC00",
+        "balloonText": "AMBALA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BHIWANI",
+        "id": "504",
+        "color": "#7CFC00",
+        "balloonText": "BHIWANI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "FARIDABAD",
+        "id": "606",
+        "color": "#7CFC00",
+        "balloonText": "FARIDABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GURGAON",
+        "id": "483",
+        "color": "#7CFC00",
+        "balloonText": "GURGAON :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HISAR",
+        "id": "714",
+        "color": "#7CFC00",
+        "balloonText": "HISAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JHAJJAR",
+        "id": "499",
+        "color": "#7CFC00",
+        "balloonText": "JHAJJAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JIND",
+        "id": "521",
+        "color": "#7CFC00",
+        "balloonText": "JIND :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KAITHAL",
+        "id": "528",
+        "color": "#7CFC00",
+        "balloonText": "KAITHAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KARNAL",
+        "id": "523",
+        "color": "#7CFC00",
+        "balloonText": "KARNAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KURUKSHETRA",
+        "id": "529",
+        "color": "#7CFC00",
+        "balloonText": "KURUKSHETRA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MEWAT",
+        "id": "607",
+        "color": "#7CFC00",
+        "balloonText": "MEWAT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PALWAL",
+        "id": "468",
+        "color": "#7CFC00",
+        "balloonText": "PALWAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PANCHKULA",
+        "id": "545",
+        "color": "#7CFC00",
+        "balloonText": "PANCHKULA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PANIPAT",
+        "id": "515",
+        "color": "#7CFC00",
+        "balloonText": "PANIPAT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "REWARI",
+        "id": "481",
+        "color": "#7CFC00",
+        "balloonText": "REWARI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ROHTAK",
+        "id": "721",
+        "color": "#7CFC00",
+        "balloonText": "ROHTAK :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SIRSA",
+        "id": "525",
+        "color": "#7CFC00",
+        "balloonText": "SIRSA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SONIPAT",
+        "id": "512",
+        "color": "#7CFC00",
+        "balloonText": "SONIPAT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AMRITSAR",
+        "id": "564",
+        "color": "#7CFC00",
+        "balloonText": "AMRITSAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BARNALA",
+        "id": "536",
+        "color": "#7CFC00",
+        "balloonText": "BARNALA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "FARIDKOT",
+        "id": "543",
+        "color": "#7CFC00",
+        "balloonText": "FARIDKOT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "FATEHGARH SAHIB",
+        "id": "544",
+        "color": "#7CFC00",
+        "balloonText": "FATEHGARH SAHIB :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GURDASPUR",
+        "id": "568",
+        "color": "#7CFC00",
+        "balloonText": "GURDASPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HOSHIARPUR",
+        "id": "565",
+        "color": "#7CFC00",
+        "balloonText": "HOSHIARPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JALANDHAR",
+        "id": "557",
+        "color": "#7CFC00",
+        "balloonText": "JALANDHAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KAPURTHALA",
+        "id": "554",
+        "color": "#7CFC00",
+        "balloonText": "KAPURTHALA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LUDHIANA",
+        "id": "550",
+        "color": "#7CFC00",
+        "balloonText": "LUDHIANA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MANSA",
+        "id": "615",
+        "color": "#7CFC00",
+        "balloonText": "MANSA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MOGA",
+        "id": "546",
+        "color": "#7CFC00",
+        "balloonText": "MOGA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MUKTSAR",
+        "id": "541",
+        "color": "#7CFC00",
+        "balloonText": "MUKTSAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PATIALA",
+        "id": "719",
+        "color": "#7CFC00",
+        "balloonText": "PATIALA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SANGRUR",
+        "id": "538",
+        "color": "#7CFC00",
+        "balloonText": "SANGRUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "TARN TARAN",
+        "id": "558",
+        "color": "#7CFC00",
+        "balloonText": "TARN TARAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHAMBA",
+        "id": "569",
+        "color": "#7CFC00",
+        "balloonText": "CHAMBA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HAMIRPURR",
+        "id": "561",
+        "color": "#7CFC00",
+        "balloonText": "HAMIRPURR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KANGRA",
+        "id": "567",
+        "color": "#7CFC00",
+        "balloonText": "KANGRA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KINNAUR",
+        "id": "562",
+        "color": "#7CFC00",
+        "balloonText": "KINNAUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KULLU",
+        "id": "566",
+        "color": "#7CFC00",
+        "balloonText": "KULLU :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MANDI",
+        "id": "563",
+        "color": "#7CFC00",
+        "balloonText": "MANDI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHIMLA",
+        "id": "559",
+        "color": "#7CFC00",
+        "balloonText": "SHIMLA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SIRMAUR",
+        "id": "548",
+        "color": "#7CFC00",
+        "balloonText": "SIRMAUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SOLAN",
+        "id": "553",
+        "color": "#7CFC00",
+        "balloonText": "SOLAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UNA",
+        "id": "560",
+        "color": "#7CFC00",
+        "balloonText": "UNA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LEH",
+        "id": "703",
+        "color": "#7CFC00",
+        "balloonText": "LEH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AJMER",
+        "id": "431",
+        "color": "#7CFC00",
+        "balloonText": "AJMER :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ALWAR",
+        "id": "471",
+        "color": "#7CFC00",
+        "balloonText": "ALWAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BANSWARA",
+        "id": "28",
+        "color": "#7CFC00",
+        "balloonText": "BANSWARA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BARAN",
+        "id": "349",
+        "color": "#7CFC00",
+        "balloonText": "BARAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BHARATPUR",
+        "id": "458",
+        "color": "#7CFC00",
+        "balloonText": "BHARATPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BHILWARA",
+        "id": "711",
+        "color": "#7CFC00",
+        "balloonText": "BHILWARA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BELLARY",
+        "id": "100",
+        "color": "#FFFF00",
+        "balloonText": "BELLARY :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DHOLPUR",
+        "id": "426",
+        "color": "#7CFC00",
+        "balloonText": "DHOLPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DUNGARPUR",
+        "id": "661",
+        "color": "#7CFC00",
+        "balloonText": "DUNGARPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JAIPUR",
+        "id": "614",
+        "color": "#7CFC00",
+        "balloonText": "JAIPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JHALAWAR",
+        "id": "316",
+        "color": "#7CFC00",
+        "balloonText": "JHALAWAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JHUNJHUNU",
+        "id": "485",
+        "color": "#7CFC00",
+        "balloonText": "JHUNJHUNU :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KARAULI",
+        "id": "428",
+        "color": "#7CFC00",
+        "balloonText": "KARAULI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KOTA",
+        "id": "372",
+        "color": "#7CFC00",
+        "balloonText": "KOTA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SAWAI MADHOPUR",
+        "id": "414",
+        "color": "#7CFC00",
+        "balloonText": "SAWAI MADHOPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SIKAR",
+        "id": "472",
+        "color": "#7CFC00",
+        "balloonText": "SIKAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SIROHI",
+        "id": "353",
+        "color": "#7CFC00",
+        "balloonText": "SIROHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "TONK",
+        "id": "582",
+        "color": "#7CFC00",
+        "balloonText": "TONK :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UDAIPUR",
+        "id": "709",
+        "color": "#7CFC00",
+        "balloonText": "UDAIPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BARMER",
+        "id": "419",
+        "color": "#7CFC00",
+        "balloonText": "BARMER :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BIKANER",
+        "id": "506",
+        "color": "#7CFC00",
+        "balloonText": "BIKANER :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHURU",
+        "id": "503",
+        "color": "#7CFC00",
+        "balloonText": "CHURU :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JODHPUR",
+        "id": "460",
+        "color": "#7CFC00",
+        "balloonText": "JODHPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NAGAUR",
+        "id": "463",
+        "color": "#7CFC00",
+        "balloonText": "NAGAUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ANUPPUR",
+        "id": "264",
+        "color": "#7CFC00",
+        "balloonText": "ANUPPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BALAGHAT",
+        "id": "223",
+        "color": "#7CFC00",
+        "balloonText": "BALAGHAT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHHATARPUR",
+        "id": "343",
+        "color": "#7CFC00",
+        "balloonText": "CHHATARPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHHINDWARA",
+        "id": "236",
+        "color": "#7CFC00",
+        "balloonText": "CHHINDWARA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DAMOH",
+        "id": "298",
+        "color": "#7CFC00",
+        "balloonText": "DAMOH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DINDORI",
+        "id": "261",
+        "color": "#7CFC00",
+        "balloonText": "DINDORI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JABALPUR",
+        "id": "268",
+        "color": "#7CFC00",
+        "balloonText": "JABALPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KATNI",
+        "id": "286",
+        "color": "#7CFC00",
+        "balloonText": "KATNI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MANDLA",
+        "id": "249",
+        "color": "#7CFC00",
+        "balloonText": "MANDLA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PANNA",
+        "id": "723",
+        "color": "#7CFC00",
+        "balloonText": "PANNA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "REWA",
+        "id": "634",
+        "color": "#7CFC00",
+        "balloonText": "REWA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SAGAR",
+        "id": "299",
+        "color": "#7CFC00",
+        "balloonText": "SAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SATNA",
+        "id": "328",
+        "color": "#7CFC00",
+        "balloonText": "SATNA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SEONI",
+        "id": "239",
+        "color": "#7CFC00",
+        "balloonText": "SEONI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHAHDOL",
+        "id": "291",
+        "color": "#7CFC00",
+        "balloonText": "SHAHDOL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SIDHI",
+        "id": "304",
+        "color": "#7CFC00",
+        "balloonText": "SIDHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SINGRAULI",
+        "id": "602",
+        "color": "#7CFC00",
+        "balloonText": "SINGRAULI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "TIKAMGARH",
+        "id": "358",
+        "color": "#7CFC00",
+        "balloonText": "TIKAMGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UMARIA",
+        "id": "285",
+        "color": "#7CFC00",
+        "balloonText": "UMARIA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AGAR-MALWA",
+        "id": "609",
+        "color": "#7CFC00",
+        "balloonText": "AGAR-MALWA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ALIRAJPUR",
+        "id": "234",
+        "color": "#7CFC00",
+        "balloonText": "ALIRAJPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ASHOKNAGAR",
+        "id": "610",
+        "color": "#7CFC00",
+        "balloonText": "ASHOKNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BARWANI",
+        "id": "219",
+        "color": "#7CFC00",
+        "balloonText": "BARWANI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BETUL",
+        "id": "224",
+        "color": "#7CFC00",
+        "balloonText": "BETUL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BHIND",
+        "id": "418",
+        "color": "#7CFC00",
+        "balloonText": "BHIND :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KOTTAYAM",
+        "id": "37",
+        "color": "#FFFF00",
+        "balloonText": "KOTTAYAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DATIA",
+        "id": "391",
+        "color": "#7CFC00",
+        "balloonText": "DATIA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DEWAS",
+        "id": "258",
+        "color": "#7CFC00",
+        "balloonText": "DEWAS :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DHAR",
+        "id": "253",
+        "color": "#7CFC00",
+        "balloonText": "DHAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GUNA",
+        "id": "326",
+        "color": "#7CFC00",
+        "balloonText": "GUNA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GWALIOR",
+        "id": "394",
+        "color": "#7CFC00",
+        "balloonText": "GWALIOR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HARDA",
+        "id": "229",
+        "color": "#7CFC00",
+        "balloonText": "HARDA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HOSHANGABAD",
+        "id": "245",
+        "color": "#7CFC00",
+        "balloonText": "HOSHANGABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "INDORE",
+        "id": "250",
+        "color": "#7CFC00",
+        "balloonText": "INDORE :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JHABUA",
+        "id": "260",
+        "color": "#7CFC00",
+        "balloonText": "JHABUA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KHANDWA",
+        "id": "226",
+        "color": "#7CFC00",
+        "balloonText": "KHANDWA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KHARGONE",
+        "id": "230",
+        "color": "#7CFC00",
+        "balloonText": "KHARGONE :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MANDSAUR",
+        "id": "312",
+        "color": "#7CFC00",
+        "balloonText": "MANDSAUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MORENA",
+        "id": "421",
+        "color": "#7CFC00",
+        "balloonText": "MORENA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "THRISSUR",
+        "id": "45",
+        "color": "#FFFF00",
+        "balloonText": "THRISSUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAISEN",
+        "id": "276",
+        "color": "#7CFC00",
+        "balloonText": "RAISEN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAJGARH",
+        "id": "292",
+        "color": "#7CFC00",
+        "balloonText": "RAJGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RATLAM",
+        "id": "281",
+        "color": "#7CFC00",
+        "balloonText": "RATLAM :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SEHORE",
+        "id": "270",
+        "color": "#7CFC00",
+        "balloonText": "SEHORE :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHAJAPUR",
+        "id": "295",
+        "color": "#7CFC00",
+        "balloonText": "SHAJAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHEOPUR KALAN",
+        "id": "389",
+        "color": "#7CFC00",
+        "balloonText": "SHEOPUR KALAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHIVPURI",
+        "id": "375",
+        "color": "#7CFC00",
+        "balloonText": "SHIVPURI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UJJAIN",
+        "id": "279",
+        "color": "#7CFC00",
+        "balloonText": "UJJAIN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ARAVALLI",
+        "id": "679",
+        "color": "#7CFC00",
+        "balloonText": "ARAVALLI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BANASKANTHA",
+        "id": "320",
+        "color": "#7CFC00",
+        "balloonText": "BANASKANTHA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BHARUCH",
+        "id": "225",
+        "color": "#7CFC00",
+        "balloonText": "BHARUCH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DAHOD",
+        "id": "269",
+        "color": "#7CFC00",
+        "balloonText": "DAHOD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GAZIPUR",
+        "id": "371",
+        "color": "#7CFC00",
+        "balloonText": "GAZIPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GANDHINAGAR",
+        "id": "267",
+        "color": "#7CFC00",
+        "balloonText": "GANDHINAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KHERA",
+        "id": "263",
+        "color": "#7CFC00",
+        "balloonText": "KHERA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAHISAGAR",
+        "id": "608",
+        "color": "#7CFC00",
+        "balloonText": "MAHISAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAHESANA",
+        "id": "293",
+        "color": "#7CFC00",
+        "balloonText": "MAHESANA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BIJAAPUR",
+        "id": "119",
+        "color": "#7CFC00",
+        "balloonText": "BIJAAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NAVSARI",
+        "id": "643",
+        "color": "#7CFC00",
+        "balloonText": "NAVSARI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PANCHMAHAL",
+        "id": "256",
+        "color": "#7CFC00",
+        "balloonText": "PANCHMAHAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PATAN",
+        "id": "297",
+        "color": "#7CFC00",
+        "balloonText": "PATAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SURAT",
+        "id": "207",
+        "color": "#7CFC00",
+        "balloonText": "SURAT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "TAPI",
+        "id": "586",
+        "color": "#7CFC00",
+        "balloonText": "TAPI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "VADODARA",
+        "id": "244",
+        "color": "#7CFC00",
+        "balloonText": "VADODARA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "VALSAD",
+        "id": "195",
+        "color": "#7CFC00",
+        "balloonText": "VALSAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AMRELI",
+        "id": "221",
+        "color": "#7CFC00",
+        "balloonText": "AMRELI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BHAVNAGAR",
+        "id": "210",
+        "color": "#7CFC00",
+        "balloonText": "BHAVNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BOTAD",
+        "id": "233",
+        "color": "#7CFC00",
+        "balloonText": "BOTAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DEVBHOOMI DWARKA",
+        "id": "242",
+        "color": "#7CFC00",
+        "balloonText": "DEVBHOOMI DWARKA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ETAWAH",
+        "id": "427",
+        "color": "#7CFC00",
+        "balloonText": "ETAWAH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GIR SOMNATH",
+        "id": "584",
+        "color": "#7CFC00",
+        "balloonText": "GIR SOMNATH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JAMNAGAR",
+        "id": "257",
+        "color": "#7CFC00",
+        "balloonText": "JAMNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KACHCHH",
+        "id": "321",
+        "color": "#7CFC00",
+        "balloonText": "KACHCHH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MORBI",
+        "id": "583",
+        "color": "#7CFC00",
+        "balloonText": "MORBI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PORBANDAR",
+        "id": "222",
+        "color": "#7CFC00",
+        "balloonText": "PORBANDAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAJKOT",
+        "id": "266",
+        "color": "#7CFC00",
+        "balloonText": "RAJKOT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SURENDRANAGAR",
+        "id": "275",
+        "color": "#7CFC00",
+        "balloonText": "SURENDRANAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NORTH GOA",
+        "id": "98",
+        "color": "#FFFF00",
+        "balloonText": "NORTH GOA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SOUTH GOA",
+        "id": "95",
+        "color": "#FFFF00",
+        "balloonText": "SOUTH GOA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MUMBAI CITY",
+        "id": "151",
+        "color": "#7CFC00",
+        "balloonText": "MUMBAI CITY :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MUMBAI SUBURBAN",
+        "id": "157",
+        "color": "#7CFC00",
+        "balloonText": "MUMBAI SUBURBAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PALGHAR",
+        "id": "172",
+        "color": "#7CFC00",
+        "balloonText": "PALGHAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAIGAD",
+        "id": "154",
+        "color": "#7CFC00",
+        "balloonText": "RAIGAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RATNAGIRI",
+        "id": "131",
+        "color": "#7CFC00",
+        "balloonText": "RATNAGIRI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SINDHUDURG",
+        "id": "107",
+        "color": "#FFFF00",
+        "balloonText": "SINDHUDURG :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "THANE",
+        "id": "585",
+        "color": "#7CFC00",
+        "balloonText": "THANE :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DHULE",
+        "id": "587",
+        "color": "#7CFC00",
+        "balloonText": "DHULE :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JALGAON",
+        "id": "198",
+        "color": "#7CFC00",
+        "balloonText": "JALGAON :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KOLHAPUR",
+        "id": "114",
+        "color": "#7CFC00",
+        "balloonText": "KOLHAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NANDURBAR",
+        "id": "216",
+        "color": "#7CFC00",
+        "balloonText": "NANDURBAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NASHIK",
+        "id": "186",
+        "color": "#7CFC00",
+        "balloonText": "NASHIK :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PUNE",
+        "id": "159",
+        "color": "#7CFC00",
+        "balloonText": "PUNE :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SANGLI",
+        "id": "122",
+        "color": "#7CFC00",
+        "balloonText": "SANGLI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SATARA",
+        "id": "135",
+        "color": "#7CFC00",
+        "balloonText": "SATARA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HINGOLI",
+        "id": "589",
+        "color": "#7CFC00",
+        "balloonText": "HINGOLI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JALNA",
+        "id": "179",
+        "color": "#7CFC00",
+        "balloonText": "JALNA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LATUR",
+        "id": "146",
+        "color": "#7CFC00",
+        "balloonText": "LATUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "OSMANABAD",
+        "id": "143",
+        "color": "#7CFC00",
+        "balloonText": "OSMANABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PARBHANI",
+        "id": "166",
+        "color": "#7CFC00",
+        "balloonText": "PARBHANI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AKOLA",
+        "id": "194",
+        "color": "#7CFC00",
+        "balloonText": "AKOLA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BHANDARA",
+        "id": "593",
+        "color": "#7CFC00",
+        "balloonText": "BHANDARA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHANDRAPUR",
+        "id": "617",
+        "color": "#7CFC00",
+        "balloonText": "CHANDRAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GADCHIROLI",
+        "id": "724",
+        "color": "#7CFC00",
+        "balloonText": "GADCHIROLI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NAGPUR",
+        "id": "206",
+        "color": "#7CFC00",
+        "balloonText": "NAGPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WARDHA",
+        "id": "622",
+        "color": "#7CFC00",
+        "balloonText": "WARDHA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WASHIM",
+        "id": "588",
+        "color": "#7CFC00",
+        "balloonText": "WASHIM :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BALOD",
+        "id": "187",
+        "color": "#7CFC00",
+        "balloonText": "BALOD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BALODA BAZAR",
+        "id": "211",
+        "color": "#7CFC00",
+        "balloonText": "BALODA BAZAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BASTAR",
+        "id": "160",
+        "color": "#7CFC00",
+        "balloonText": "BASTAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AMBEDKARNAGAR",
+        "id": "408",
+        "color": "#7CFC00",
+        "balloonText": "AMBEDKARNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DANTEWARA",
+        "id": "591",
+        "color": "#7CFC00",
+        "balloonText": "DANTEWARA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DHAMTARI",
+        "id": "185",
+        "color": "#7CFC00",
+        "balloonText": "DHAMTARI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JASHPUR",
+        "id": "255",
+        "color": "#7CFC00",
+        "balloonText": "JASHPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KANKER",
+        "id": "176",
+        "color": "#7CFC00",
+        "balloonText": "KANKER :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KONDAGAON",
+        "id": "169",
+        "color": "#7CFC00",
+        "balloonText": "KONDAGAON :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KORBA",
+        "id": "243",
+        "color": "#7CFC00",
+        "balloonText": "KORBA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KOREA",
+        "id": "603",
+        "color": "#7CFC00",
+        "balloonText": "KOREA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAHASAMUND",
+        "id": "200",
+        "color": "#7CFC00",
+        "balloonText": "MAHASAMUND :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MUNGELI",
+        "id": "601",
+        "color": "#7CFC00",
+        "balloonText": "MUNGELI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NARAYANPUR",
+        "id": "592",
+        "color": "#7CFC00",
+        "balloonText": "NARAYANPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAIGARH",
+        "id": "235",
+        "color": "#7CFC00",
+        "balloonText": "RAIGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAJNANDGAON",
+        "id": "713",
+        "color": "#7CFC00",
+        "balloonText": "RAJNANDGAON :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SUKMA",
+        "id": "155",
+        "color": "#FFFF00",
+        "balloonText": "SUKMA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SURAJPUR",
+        "id": "308",
+        "color": "#7CFC00",
+        "balloonText": "SURAJPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SURGUJA",
+        "id": "604",
+        "color": "#7CFC00",
+        "balloonText": "SURGUJA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ADILABAD",
+        "id": "164",
+        "color": "#7CFC00",
+        "balloonText": "ADILABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "B. KOTHAGUDEM",
+        "id": "707",
+        "color": "#FFFF00",
+        "balloonText": "B. KOTHAGUDEM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "J. BHUPALPALLY",
+        "id": "629",
+        "color": "#7CFC00",
+        "balloonText": "J. BHUPALPALLY :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JAGTIAL",
+        "id": "148",
+        "color": "#7CFC00",
+        "balloonText": "JAGTIAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JANGAON",
+        "id": "126",
+        "color": "#7CFC00",
+        "balloonText": "JANGAON :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JOGULAMBA GADWAL",
+        "id": "104",
+        "color": "#7CFC00",
+        "balloonText": "JOGULAMBA GADWAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KAMAREDDY",
+        "id": "708",
+        "color": "#FFFF00",
+        "balloonText": "KAMAREDDY :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KARIMNAGAR",
+        "id": "141",
+        "color": "#7CFC00",
+        "balloonText": "KARIMNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KHAMMAM",
+        "id": "120",
+        "color": "#FFFF00",
+        "balloonText": "KHAMMAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "M. MALKAJGIRI",
+        "id": "123",
+        "color": "#7CFC00",
+        "balloonText": "M. MALKAJGIRI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAHABUBABAD",
+        "id": "128",
+        "color": "#FFFF00",
+        "balloonText": "MAHABUBABAD :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAHABUBNAGAR",
+        "id": "112",
+        "color": "#7CFC00",
+        "balloonText": "MAHABUBNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MANCHERIAL",
+        "id": "153",
+        "color": "#7CFC00",
+        "balloonText": "MANCHERIAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MEDAK",
+        "id": "129",
+        "color": "#7CFC00",
+        "balloonText": "MEDAK :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NAGARKURNOOL",
+        "id": "109",
+        "color": "#7CFC00",
+        "balloonText": "NAGARKURNOOL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NALGONDA",
+        "id": "115",
+        "color": "#FFFF00",
+        "balloonText": "NALGONDA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NIRMAL",
+        "id": "706",
+        "color": "#7CFC00",
+        "balloonText": "NIRMAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NIZAMABAD",
+        "id": "147",
+        "color": "#7CFC00",
+        "balloonText": "NIZAMABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PEDDAPALLE",
+        "id": "144",
+        "color": "#7CFC00",
+        "balloonText": "PEDDAPALLE :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAJANNA SIRCILLA",
+        "id": "140",
+        "color": "#7CFC00",
+        "balloonText": "RAJANNA SIRCILLA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RANGAREDDY",
+        "id": "118",
+        "color": "#7CFC00",
+        "balloonText": "RANGAREDDY :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SANGAREDDY",
+        "id": "134",
+        "color": "#FFFF00",
+        "balloonText": "SANGAREDDY :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SURYAPET",
+        "id": "117",
+        "color": "#FFFF00",
+        "balloonText": "SURYAPET :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "VIKARABAD",
+        "id": "121",
+        "color": "#FFFF00",
+        "balloonText": "VIKARABAD :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WANAPARTHY",
+        "id": "106",
+        "color": "#7CFC00",
+        "balloonText": "WANAPARTHY :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WARANGAL",
+        "id": "133",
+        "color": "#7CFC00",
+        "balloonText": "WARANGAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HANAMKONDA",
+        "id": "132",
+        "color": "#7CFC00",
+        "balloonText": "HANAMKONDA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "Y. BHUVANAGIRI",
+        "id": "125",
+        "color": "#7CFC00",
+        "balloonText": "Y. BHUVANAGIRI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UDUPI",
+        "id": "86",
+        "color": "#FFFF00",
+        "balloonText": "UDUPI :<\/br><img src=warning_images\/01.png style='width: 28px ; height:28px;float: left;'><p>Heavy Rain<\/p><\/img><\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UTTAR KANNADA",
+        "id": "96",
+        "color": "#FFFF00",
+        "balloonText": "UTTAR KANNADA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BIDAR",
+        "id": "137",
+        "color": "#7CFC00",
+        "balloonText": "BIDAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DHARWAD",
+        "id": "97",
+        "color": "#FFFF00",
+        "balloonText": "DHARWAD :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GADAG",
+        "id": "99",
+        "color": "#FFFF00",
+        "balloonText": "GADAG :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HAVERI",
+        "id": "93",
+        "color": "#FFFF00",
+        "balloonText": "HAVERI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KOPPAL",
+        "id": "101",
+        "color": "#FFFF00",
+        "balloonText": "KOPPAL :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAICHUR",
+        "id": "105",
+        "color": "#7CFC00",
+        "balloonText": "RAICHUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "YADGIR",
+        "id": "590",
+        "color": "#7CFC00",
+        "balloonText": "YADGIR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BALRAMPUR",
+        "id": "459",
+        "color": "#7CFC00",
+        "balloonText": "BALRAMPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHITRADURGA",
+        "id": "90",
+        "color": "#FFFF00",
+        "balloonText": "CHITRADURGA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DAVANGERE",
+        "id": "89",
+        "color": "#FFFF00",
+        "balloonText": "DAVANGERE :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HASSAN",
+        "id": "83",
+        "color": "#FFFF00",
+        "balloonText": "HASSAN :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KODAGU",
+        "id": "73",
+        "color": "#FFFF00",
+        "balloonText": "KODAGU :<\/br><img src=warning_images\/01.png style='width: 28px ; height:28px;float: left;'><p>Heavy Rain<\/p><\/img><\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MANDHYA",
+        "id": "77",
+        "color": "#FFFF00",
+        "balloonText": "MANDHYA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ERNAKULAM",
+        "id": "40",
+        "color": "#FFFF00",
+        "balloonText": "ERNAKULAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "IDUKKI",
+        "id": "42",
+        "color": "#FFFF00",
+        "balloonText": "IDUKKI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KASARAGOD",
+        "id": "72",
+        "color": "#FFFF00",
+        "balloonText": "KASARAGOD :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KOLLAM",
+        "id": "33",
+        "color": "#FFFF00",
+        "balloonText": "KOLLAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MALAPPURAM",
+        "id": "58",
+        "color": "#FFFF00",
+        "balloonText": "MALAPPURAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PALAKKAD",
+        "id": "51",
+        "color": "#FFFF00",
+        "balloonText": "PALAKKAD :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PATHANAMTHITTA",
+        "id": "618",
+        "color": "#FFFF00",
+        "balloonText": "PATHANAMTHITTA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LAKSHADWEEP",
+        "id": "574",
+        "color": "#FFFF00",
+        "balloonText": "LAKSHADWEEP :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "THIRUVANANTHAPURAM",
+        "id": "31",
+        "color": "#FFFF00",
+        "balloonText": "THIRUVANANTHAPURAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BULDHANA",
+        "id": "197",
+        "color": "#7CFC00",
+        "balloonText": "BULDHANA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NARSINGHPUR",
+        "id": "254",
+        "color": "#7CFC00",
+        "balloonText": "NARSINGHPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ANUGUL",
+        "id": "204",
+        "color": "#7CFC00",
+        "balloonText": "ANUGUL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BILAASPUR",
+        "id": "556",
+        "color": "#7CFC00",
+        "balloonText": "BILAASPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KIPHIRE",
+        "id": "627",
+        "color": "#7CFC00",
+        "balloonText": "KIPHIRE :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PRATAAPGARH",
+        "id": "29",
+        "color": "#7CFC00",
+        "balloonText": "PRATAAPGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BALESHWAR",
+        "id": "215",
+        "color": "#7CFC00",
+        "balloonText": "BALESHWAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HAMIRPUR",
+        "id": "382",
+        "color": "#7CFC00",
+        "balloonText": "HAMIRPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DAMAN",
+        "id": "616",
+        "color": "#7CFC00",
+        "balloonText": "DAMAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GORAKHPUR",
+        "id": "433",
+        "color": "#7CFC00",
+        "balloonText": "GORAKHPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DIU",
+        "id": "705",
+        "color": "#7CFC00",
+        "balloonText": "DIU :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RI BHOI",
+        "id": "7",
+        "color": "#7CFC00",
+        "balloonText": "RI BHOI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KARBI ANALOG",
+        "id": "8",
+        "color": "#FFFF00",
+        "balloonText": "KARBI ANALOG :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/07.png style='width: 28px ; height:28px;float: left;'><p>Strong Surface Winds<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KAMRUP",
+        "id": "10",
+        "color": "#FFFF00",
+        "balloonText": "KAMRUP :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/07.png style='width: 28px ; height:28px;float: left;'><p>Strong Surface Winds<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "COOCH BEHAR",
+        "id": "11",
+        "color": "#FFFF00",
+        "balloonText": "COOCH BEHAR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NALBARI",
+        "id": "13",
+        "color": "#FFFF00",
+        "balloonText": "NALBARI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KAMRUP RURAL",
+        "id": "15",
+        "color": "#FFFF00",
+        "balloonText": "KAMRUP RURAL :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/07.png style='width: 28px ; height:28px;float: left;'><p>Strong Surface Winds<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SONITPUR",
+        "id": "23",
+        "color": "#7CFC00",
+        "balloonText": "SONITPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PRATAPGARH",
+        "id": "380",
+        "color": "#7CFC00",
+        "balloonText": "PRATAPGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ALAPPUZHA",
+        "id": "38",
+        "color": "#FFFF00",
+        "balloonText": "ALAPPUZHA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NAGAPATTINAM",
+        "id": "47",
+        "color": "#FFFF00",
+        "balloonText": "NAGAPATTINAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KOZHIKODE",
+        "id": "62",
+        "color": "#FFFF00",
+        "balloonText": "KOZHIKODE :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WAYANAD",
+        "id": "65",
+        "color": "#FFFF00",
+        "balloonText": "WAYANAD :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHAMARAJANAGAR",
+        "id": "67",
+        "color": "#FFFF00",
+        "balloonText": "CHAMARAJANAGAR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KANNUR",
+        "id": "68",
+        "color": "#FFFF00",
+        "balloonText": "KANNUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MYSORE",
+        "id": "71",
+        "color": "#FFFF00",
+        "balloonText": "MYSORE :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DAKSHIN KANNADA",
+        "id": "80",
+        "color": "#FFFF00",
+        "balloonText": "DAKSHIN KANNADA :<\/br><img src=warning_images\/01.png style='width: 28px ; height:28px;float: left;'><p>Heavy Rain<\/p><\/img><\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BANGLORE URBAN",
+        "id": "81",
+        "color": "#FFFF00",
+        "balloonText": "BANGLORE URBAN :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAMNAGAR",
+        "id": "82",
+        "color": "#FFFF00",
+        "balloonText": "RAMNAGAR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHIKMAGALUR",
+        "id": "84",
+        "color": "#FFFF00",
+        "balloonText": "CHIKMAGALUR :<\/br><img src=warning_images\/01.png style='width: 28px ; height:28px;float: left;'><p>Heavy Rain<\/p><\/img><\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "TUMKUR",
+        "id": "87",
+        "color": "#FFFF00",
+        "balloonText": "TUMKUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHIMOGA",
+        "id": "88",
+        "color": "#FFFF00",
+        "balloonText": "SHIMOGA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BAGALKOT",
+        "id": "110",
+        "color": "#7CFC00",
+        "balloonText": "BAGALKOT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BELGAUM",
+        "id": "111",
+        "color": "#FFFF00",
+        "balloonText": "BELGAUM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HYDERABAD",
+        "id": "116",
+        "color": "#7CFC00",
+        "balloonText": "HYDERABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BIJAPUR",
+        "id": "156",
+        "color": "#7CFC00",
+        "balloonText": "BIJAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GULBARGA",
+        "id": "124",
+        "color": "#7CFC00",
+        "balloonText": "GULBARGA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SIDDIPET",
+        "id": "136",
+        "color": "#7CFC00",
+        "balloonText": "SIDDIPET :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SOLAPUR",
+        "id": "139",
+        "color": "#7CFC00",
+        "balloonText": "SOLAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MULUGU",
+        "id": "145",
+        "color": "#FFFF00",
+        "balloonText": "MULUGU :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BEED",
+        "id": "158",
+        "color": "#7CFC00",
+        "balloonText": "BEED :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GAJAPATHI",
+        "id": "162",
+        "color": "#7CFC00",
+        "balloonText": "GAJAPATHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NANDED",
+        "id": "163",
+        "color": "#7CFC00",
+        "balloonText": "NANDED :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAYAGARHA",
+        "id": "165",
+        "color": "#7CFC00",
+        "balloonText": "RAYAGARHA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NABARANGAPUR",
+        "id": "167",
+        "color": "#7CFC00",
+        "balloonText": "NABARANGAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AHMEDNAGAR",
+        "id": "168",
+        "color": "#7CFC00",
+        "balloonText": "AHMEDNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KHORDHA",
+        "id": "174",
+        "color": "#7CFC00",
+        "balloonText": "KHORDHA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NAYAGARH",
+        "id": "177",
+        "color": "#7CFC00",
+        "balloonText": "NAYAGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "YAVATMAL",
+        "id": "180",
+        "color": "#7CFC00",
+        "balloonText": "YAVATMAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AURANGABAD",
+        "id": "325",
+        "color": "#7CFC00",
+        "balloonText": "AURANGABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KENDRAPARHA",
+        "id": "183",
+        "color": "#7CFC00",
+        "balloonText": "KENDRAPARHA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BAUDA",
+        "id": "184",
+        "color": "#7CFC00",
+        "balloonText": "BAUDA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BALANGIR",
+        "id": "188",
+        "color": "#7CFC00",
+        "balloonText": "BALANGIR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NUAPARHA",
+        "id": "189",
+        "color": "#7CFC00",
+        "balloonText": "NUAPARHA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DANGS",
+        "id": "190",
+        "color": "#7CFC00",
+        "balloonText": "DANGS :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SUBARNAPUR",
+        "id": "191",
+        "color": "#7CFC00",
+        "balloonText": "SUBARNAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DHENKANAL",
+        "id": "192",
+        "color": "#7CFC00",
+        "balloonText": "DHENKANAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JAJAPUR",
+        "id": "193",
+        "color": "#7CFC00",
+        "balloonText": "JAJAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DURG",
+        "id": "199",
+        "color": "#7CFC00",
+        "balloonText": "DURG :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GARIABAND",
+        "id": "201",
+        "color": "#7CFC00",
+        "balloonText": "GARIABAND :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GONDIA",
+        "id": "202",
+        "color": "#7CFC00",
+        "balloonText": "GONDIA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BURHANPUR",
+        "id": "203",
+        "color": "#7CFC00",
+        "balloonText": "BURHANPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SOUTH 24 PARGANAS",
+        "id": "208",
+        "color": "#7CFC00",
+        "balloonText": "SOUTH 24 PARGANAS :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AMRAVATI",
+        "id": "209",
+        "color": "#7CFC00",
+        "balloonText": "AMRAVATI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JUNAGARH",
+        "id": "212",
+        "color": "#7CFC00",
+        "balloonText": "JUNAGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BARAGARH",
+        "id": "213",
+        "color": "#7CFC00",
+        "balloonText": "BARAGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BEMETARA",
+        "id": "214",
+        "color": "#7CFC00",
+        "balloonText": "BEMETARA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KENDUJHAR",
+        "id": "218",
+        "color": "#7CFC00",
+        "balloonText": "KENDUJHAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JANJGIR-CHAMPA",
+        "id": "220",
+        "color": "#7CFC00",
+        "balloonText": "JANJGIR-CHAMPA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KABIRDHAM",
+        "id": "227",
+        "color": "#7CFC00",
+        "balloonText": "KABIRDHAM :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PURBA MEDINIPUR",
+        "id": "231",
+        "color": "#7CFC00",
+        "balloonText": "PURBA MEDINIPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAYURBHANJ",
+        "id": "232",
+        "color": "#7CFC00",
+        "balloonText": "MAYURBHANJ :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KOLKATA",
+        "id": "237",
+        "color": "#7CFC00",
+        "balloonText": "KOLKATA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HOWRAH",
+        "id": "238",
+        "color": "#7CFC00",
+        "balloonText": "HOWRAH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ANAND",
+        "id": "240",
+        "color": "#7CFC00",
+        "balloonText": "ANAND :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PASCHIM MEDINIPUR",
+        "id": "246",
+        "color": "#7CFC00",
+        "balloonText": "PASCHIM MEDINIPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BILASPUR",
+        "id": "248",
+        "color": "#7CFC00",
+        "balloonText": "BILASPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HOOGHLY",
+        "id": "262",
+        "color": "#7CFC00",
+        "balloonText": "HOOGHLY :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NORTH 24 PARGANAS",
+        "id": "265",
+        "color": "#7CFC00",
+        "balloonText": "NORTH 24 PARGANAS :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AHMADABAD",
+        "id": "273",
+        "color": "#7CFC00",
+        "balloonText": "AHMADABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PURULIA",
+        "id": "278",
+        "color": "#7CFC00",
+        "balloonText": "PURULIA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BHOPAL",
+        "id": "280",
+        "color": "#7CFC00",
+        "balloonText": "BHOPAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAMIT",
+        "id": "306",
+        "color": "#FFFF00",
+        "balloonText": "MAMIT :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "AIZAWL",
+        "id": "313",
+        "color": "#FFFF00",
+        "balloonText": "AIZAWL :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHITTORGARH",
+        "id": "323",
+        "color": "#7CFC00",
+        "balloonText": "CHITTORGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NEEMUCH",
+        "id": "327",
+        "color": "#7CFC00",
+        "balloonText": "NEEMUCH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHURACHANDPUR",
+        "id": "329",
+        "color": "#FFFF00",
+        "balloonText": "CHURACHANDPUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MIRZAPUR",
+        "id": "336",
+        "color": "#7CFC00",
+        "balloonText": "MIRZAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SANTRAVIDASNAGAR",
+        "id": "351",
+        "color": "#7CFC00",
+        "balloonText": "SANTRAVIDASNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MUNGER",
+        "id": "352",
+        "color": "#7CFC00",
+        "balloonText": "MUNGER :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DAKSHIN DINAJPUR",
+        "id": "367",
+        "color": "#FFFF00",
+        "balloonText": "DAKSHIN DINAJPUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BUNDI",
+        "id": "373",
+        "color": "#7CFC00",
+        "balloonText": "BUNDI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAJSAMAND",
+        "id": "377",
+        "color": "#7CFC00",
+        "balloonText": "RAJSAMAND :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PURNEA",
+        "id": "390",
+        "color": "#7CFC00",
+        "balloonText": "PURNEA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DARBHANGA",
+        "id": "400",
+        "color": "#7CFC00",
+        "balloonText": "DARBHANGA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RAIBEARELI",
+        "id": "404",
+        "color": "#7CFC00",
+        "balloonText": "RAIBEARELI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KANPUR",
+        "id": "405",
+        "color": "#7CFC00",
+        "balloonText": "KANPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PALI",
+        "id": "406",
+        "color": "#7CFC00",
+        "balloonText": "PALI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PEREN",
+        "id": "407",
+        "color": "#FFFF00",
+        "balloonText": "PEREN :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ARARIA",
+        "id": "413",
+        "color": "#7CFC00",
+        "balloonText": "ARARIA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MADHUBANI",
+        "id": "416",
+        "color": "#7CFC00",
+        "balloonText": "MADHUBANI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "EAST CHAMPARAN",
+        "id": "430",
+        "color": "#7CFC00",
+        "balloonText": "EAST CHAMPARAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SANTKABIRNAGAR",
+        "id": "434",
+        "color": "#7CFC00",
+        "balloonText": "SANTKABIRNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KUSHINAGAR",
+        "id": "439",
+        "color": "#7CFC00",
+        "balloonText": "KUSHINAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DARJEELING",
+        "id": "441",
+        "color": "#FFFF00",
+        "balloonText": "DARJEELING :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SIDDHARTHNAGAR",
+        "id": "447",
+        "color": "#7CFC00",
+        "balloonText": "SIDDHARTHNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WEST CHAMPARAN",
+        "id": "448",
+        "color": "#7CFC00",
+        "balloonText": "WEST CHAMPARAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAHAMAYANAGAR",
+        "id": "457",
+        "color": "#7CFC00",
+        "balloonText": "MAHAMAYANAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHRAWASTI",
+        "id": "464",
+        "color": "#7CFC00",
+        "balloonText": "SHRAWASTI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KANSHIRAMNAGAR",
+        "id": "467",
+        "color": "#7CFC00",
+        "balloonText": "KANSHIRAMNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BAHRAICH",
+        "id": "474",
+        "color": "#7CFC00",
+        "balloonText": "BAHRAICH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DIBRUGARH",
+        "id": "475",
+        "color": "#FFFF00",
+        "balloonText": "DIBRUGARH :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/07.png style='width: 28px ; height:28px;float: left;'><p>Strong Surface Winds<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JAISALMER",
+        "id": "476",
+        "color": "#7CFC00",
+        "balloonText": "JAISALMER :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LAKHIMPUR",
+        "id": "487",
+        "color": "#FFFF00",
+        "balloonText": "LAKHIMPUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "GAUTAMBUDHNAGAR",
+        "id": "488",
+        "color": "#7CFC00",
+        "balloonText": "GAUTAMBUDHNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BULANDSAHAR",
+        "id": "490",
+        "color": "#7CFC00",
+        "balloonText": "BULANDSAHAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NAINITAL",
+        "id": "516",
+        "color": "#7CFC00",
+        "balloonText": "NAINITAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MUZAFARNAGAR",
+        "id": "518",
+        "color": "#7CFC00",
+        "balloonText": "MUZAFARNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "FATEHABAD",
+        "id": "520",
+        "color": "#7CFC00",
+        "balloonText": "FATEHABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HARIDWAR",
+        "id": "526",
+        "color": "#7CFC00",
+        "balloonText": "HARIDWAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PAURI GARHWAL",
+        "id": "527",
+        "color": "#7CFC00",
+        "balloonText": "PAURI GARHWAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "DIBANG VALLEY",
+        "id": "531",
+        "color": "#FFFF00",
+        "balloonText": "DIBANG VALLEY :<\/br><img src=warning_images\/01.png style='width: 28px ; height:28px;float: left;'><p>Heavy Rain<\/p><\/img><\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SRI GANGANAGAR",
+        "id": "532",
+        "color": "#7CFC00",
+        "balloonText": "SRI GANGANAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "YAMUNANAGAR",
+        "id": "534",
+        "color": "#7CFC00",
+        "balloonText": "YAMUNANAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BATHINDA",
+        "id": "535",
+        "color": "#7CFC00",
+        "balloonText": "BATHINDA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHANDIGARH",
+        "id": "537",
+        "color": "#7CFC00",
+        "balloonText": "CHANDIGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "TEHRI GARHWAL",
+        "id": "542",
+        "color": "#7CFC00",
+        "balloonText": "TEHRI GARHWAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "FIROZPUR",
+        "id": "551",
+        "color": "#7CFC00",
+        "balloonText": "FIROZPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NAWASHAHR",
+        "id": "552",
+        "color": "#7CFC00",
+        "balloonText": "NAWASHAHR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "UTTARKASHI",
+        "id": "555",
+        "color": "#FFFF00",
+        "balloonText": "UTTARKASHI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><\/br><img src=warning_images\/04.png style='width: 28px ; height:28px;float: left;'><p><br>Hailstorm<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LAHUL AND SPITI",
+        "id": "570",
+        "color": "#7CFC00",
+        "balloonText": "LAHUL AND SPITI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LOWER DIBANG VALLEY",
+        "id": "611",
+        "color": "#FFFF00",
+        "balloonText": "LOWER DIBANG VALLEY :<\/br><img src=warning_images\/01.png style='width: 28px ; height:28px;float: left;'><p>Heavy Rain<\/p><\/img><\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BANGLORE RURAL",
+        "id": "612",
+        "color": "#FFFF00",
+        "balloonText": "BANGLORE RURAL :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHHOTA UDEPUR",
+        "id": "638",
+        "color": "#7CFC00",
+        "balloonText": "CHHOTA UDEPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JALORE",
+        "id": "669",
+        "color": "#7CFC00",
+        "balloonText": "JALORE :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SABAR KANTHA",
+        "id": "670",
+        "color": "#7CFC00",
+        "balloonText": "SABAR KANTHA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NARMADA",
+        "id": "683",
+        "color": "#7CFC00",
+        "balloonText": "NARMADA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SAS NAGAR",
+        "id": "690",
+        "color": "#7CFC00",
+        "balloonText": "SAS NAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HANUMANGARH",
+        "id": "710",
+        "color": "#7CFC00",
+        "balloonText": "HANUMANGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "RUPNAGAR",
+        "id": "718",
+        "color": "#7CFC00",
+        "balloonText": "RUPNAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHIKBALLAPUR",
+        "id": "725",
+        "color": "#FFFF00",
+        "balloonText": "CHIKBALLAPUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "ALIPURDUAR",
+        "id": "730",
+        "color": "#FFFF00",
+        "balloonText": "ALIPURDUAR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BISWANATH",
+        "id": "630",
+        "color": "#FFFF00",
+        "balloonText": "BISWANATH :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHARAIDEO",
+        "id": "621",
+        "color": "#FFFF00",
+        "balloonText": "CHARAIDEO :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "CHARKI DADRI",
+        "id": "639",
+        "color": "#7CFC00",
+        "balloonText": "CHARKI DADRI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "EAST JAINTIA HILLS",
+        "id": "3",
+        "color": "#FFFF00",
+        "balloonText": "EAST JAINTIA HILLS :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "FAZILKA",
+        "id": "678",
+        "color": "#7CFC00",
+        "balloonText": "FAZILKA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HAPUR",
+        "id": "727",
+        "color": "#7CFC00",
+        "balloonText": "HAPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "HOJAI",
+        "id": "632",
+        "color": "#7CFC00",
+        "balloonText": "HOJAI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JHARGRAM",
+        "id": "731",
+        "color": "#7CFC00",
+        "balloonText": "JHARGRAM :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "JIRBAM",
+        "id": "663",
+        "color": "#FFFF00",
+        "balloonText": "JIRBAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KAKCHING",
+        "id": "671",
+        "color": "#7CFC00",
+        "balloonText": "KAKCHING :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KALIMPONG",
+        "id": "732",
+        "color": "#FFFF00",
+        "balloonText": "KALIMPONG :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KAMJONG",
+        "id": "664",
+        "color": "#7CFC00",
+        "balloonText": "KAMJONG :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KAMLE",
+        "id": "619",
+        "color": "#7CFC00",
+        "balloonText": "KAMLE :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KANGPOKPI",
+        "id": "668",
+        "color": "#7CFC00",
+        "balloonText": "KANGPOKPI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KARGIL",
+        "id": "660",
+        "color": "#FFFF00",
+        "balloonText": "KARGIL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KOLAR",
+        "id": "659",
+        "color": "#FFFF00",
+        "balloonText": "KOLAR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "KRA DAADI",
+        "id": "581",
+        "color": "#7CFC00",
+        "balloonText": "KRA DAADI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LEPA RADA",
+        "id": "579",
+        "color": "#7CFC00",
+        "balloonText": "LEPA RADA :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "LONGDING",
+        "id": "620",
+        "color": "#7CFC00",
+        "balloonText": "LONGDING :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAHE",
+        "id": "676",
+        "color": "#FFFF00",
+        "balloonText": "MAHE :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "MAJULI",
+        "id": "631",
+        "color": "#FFFF00",
+        "balloonText": "MAJULI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NAMSAI",
+        "id": "611",
+        "color": "#FFFF00",
+        "balloonText": "NAMSAI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NARAYANPET",
+        "id": "700",
+        "color": "#7CFC00",
+        "balloonText": "NARAYANPET :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NIWARI",
+        "id": "662",
+        "color": "#7CFC00",
+        "balloonText": "NIWARI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NONEY",
+        "id": "665",
+        "color": "#FFFF00",
+        "balloonText": "NONEY :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "NORTH GARO HILLS",
+        "id": "674",
+        "color": "#7CFC00",
+        "balloonText": "NORTH GARO HILLS :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PAKKE KESSANG",
+        "id": "580",
+        "color": "#7CFC00",
+        "balloonText": "PAKKE KESSANG :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PASHCHIM BARDHAMAN",
+        "id": "576",
+        "color": "#7CFC00",
+        "balloonText": "PASHCHIM BARDHAMAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PATHANKOT",
+        "id": "680",
+        "color": "#7CFC00",
+        "balloonText": "PATHANKOT :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PHERZAWL",
+        "id": "666",
+        "color": "#7CFC00",
+        "balloonText": "PHERZAWL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "PURBA BARDHAMAN",
+        "id": "283",
+        "color": "#7CFC00",
+        "balloonText": "PURBA BARDHAMAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SAMBHAL",
+        "id": "728",
+        "color": "#7CFC00",
+        "balloonText": "SAMBHAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHAMALI",
+        "id": "729",
+        "color": "#7CFC00",
+        "balloonText": "SHAMALI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SHI YOMI",
+        "id": "578",
+        "color": "#7CFC00",
+        "balloonText": "SHI YOMI :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SIANG",
+        "id": "577",
+        "color": "#FFFF00",
+        "balloonText": "SIANG :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SOUTH SALMARA MANCACHAR",
+        "id": "633",
+        "color": "#FFFF00",
+        "balloonText": "SOUTH SALMARA MANCACHAR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SOUTH WEST GARO HILLS",
+        "id": "673",
+        "color": "#7CFC00",
+        "balloonText": "SOUTH WEST GARO HILLS :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "SOUTH WEST KHASI HILLS",
+        "id": "672",
+        "color": "#FFFF00",
+        "balloonText": "SOUTH WEST KHASI HILLS :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "TENGNOUPAL",
+        "id": "667",
+        "color": "#7CFC00",
+        "balloonText": "TENGNOUPAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WEST JAINTIA HILLS",
+        "id": "575",
+        "color": "#FFFF00",
+        "balloonText": "WEST JAINTIA HILLS :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "WEST KARBI ANGLONG",
+        "id": "635",
+        "color": "#7CFC00",
+        "balloonText": "WEST KARBI ANGLONG :<\/br>No warning<p><\/p><p>Updated on:2022-03-24<\/p>"
+    },
+    {
+        "title": "BOKARO",
+        "id": "284",
+        "color": "#7CFC00",
+        "balloonText": "BOKARO :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "CHATRA",
+        "id": "302",
+        "color": "#7CFC00",
+        "balloonText": "CHATRA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "DEOGAARH",
+        "id": "309",
+        "color": "#7CFC00",
+        "balloonText": "DEOGAARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "DHANBAD",
+        "id": "289",
+        "color": "#7CFC00",
+        "balloonText": "DHANBAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "DUMKA",
+        "id": "311",
+        "color": "#7CFC00",
+        "balloonText": "DUMKA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "GARHWA",
+        "id": "301",
+        "color": "#7CFC00",
+        "balloonText": "GARHWA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "GIRIDIH",
+        "id": "314",
+        "color": "#7CFC00",
+        "balloonText": "GIRIDIH :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "GUMLA",
+        "id": "271",
+        "color": "#7CFC00",
+        "balloonText": "GUMLA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "JAMTARA",
+        "id": "599",
+        "color": "#7CFC00",
+        "balloonText": "JAMTARA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KHUNTI",
+        "id": "259",
+        "color": "#7CFC00",
+        "balloonText": "KHUNTI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "LATEHAR",
+        "id": "307",
+        "color": "#7CFC00",
+        "balloonText": "LATEHAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "LOHARDAGA",
+        "id": "597",
+        "color": "#7CFC00",
+        "balloonText": "LOHARDAGA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "PAKUR",
+        "id": "319",
+        "color": "#7CFC00",
+        "balloonText": "PAKUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "PALAMU",
+        "id": "598",
+        "color": "#7CFC00",
+        "balloonText": "PALAMU :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "RAMGARH",
+        "id": "600",
+        "color": "#7CFC00",
+        "balloonText": "RAMGARH :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "RANCHI",
+        "id": "272",
+        "color": "#7CFC00",
+        "balloonText": "RANCHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SIMDEGA",
+        "id": "596",
+        "color": "#7CFC00",
+        "balloonText": "SIMDEGA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KANCHEEPURAM",
+        "id": "76",
+        "color": "#FFFF00",
+        "balloonText": "KANCHEEPURAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "CENTRAL DELHI",
+        "id": "489",
+        "color": "#7CFC00",
+        "balloonText": "CENTRAL DELHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "EAST DELHI",
+        "id": "491",
+        "color": "#7CFC00",
+        "balloonText": "EAST DELHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "NEW DELHI",
+        "id": "689",
+        "color": "#7CFC00",
+        "balloonText": "NEW DELHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "NORTH DELHI",
+        "id": "688",
+        "color": "#7CFC00",
+        "balloonText": "NORTH DELHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "NORTH EAST DELHI",
+        "id": "496",
+        "color": "#7CFC00",
+        "balloonText": "NORTH EAST DELHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "NORTH WEST DELHI",
+        "id": "502",
+        "color": "#7CFC00",
+        "balloonText": "NORTH WEST DELHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SOUTH DELHI",
+        "id": "486",
+        "color": "#7CFC00",
+        "balloonText": "SOUTH DELHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SOUTH WEST DELHI",
+        "id": "492",
+        "color": "#7CFC00",
+        "balloonText": "SOUTH WEST DELHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "WEST DELHI",
+        "id": "495",
+        "color": "#7CFC00",
+        "balloonText": "WEST DELHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "ANANTNAG",
+        "id": "697",
+        "color": "#7CFC00",
+        "balloonText": "ANANTNAG :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "BARAMULLA",
+        "id": "698",
+        "color": "#7CFC00",
+        "balloonText": "BARAMULLA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "JAMMU",
+        "id": "692",
+        "color": "#7CFC00",
+        "balloonText": "JAMMU :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KATHUA",
+        "id": "691",
+        "color": "#7CFC00",
+        "balloonText": "KATHUA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "POONCH",
+        "id": "641",
+        "color": "#7CFC00",
+        "balloonText": "POONCH :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "REASI",
+        "id": "652",
+        "color": "#7CFC00",
+        "balloonText": "REASI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "UDHAMPUR",
+        "id": "695",
+        "color": "#7CFC00",
+        "balloonText": "UDHAMPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "THENI",
+        "id": "39",
+        "color": "#FFFF00",
+        "balloonText": "THENI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "EAST GODAVARI",
+        "id": "127",
+        "color": "#FFFF00",
+        "balloonText": "EAST GODAVARI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KRISHNA",
+        "id": "113",
+        "color": "#FFFF00",
+        "balloonText": "KRISHNA :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SPSR NELLORE",
+        "id": "91",
+        "color": "#FFFF00",
+        "balloonText": "SPSR NELLORE :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "PRAKASAM",
+        "id": "103",
+        "color": "#FFFF00",
+        "balloonText": "PRAKASAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SRIKAKULAM",
+        "id": "149",
+        "color": "#FFFF00",
+        "balloonText": "SRIKAKULAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "VISHAKHAPATNAM",
+        "id": "138",
+        "color": "#FFFF00",
+        "balloonText": "VISHAKHAPATNAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "WEST GODAVARI",
+        "id": "130",
+        "color": "#FFFF00",
+        "balloonText": "WEST GODAVARI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KURNOOL",
+        "id": "102",
+        "color": "#7CFC00",
+        "balloonText": "KURNOOL :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "ARIYALUR",
+        "id": "56",
+        "color": "#FFFF00",
+        "balloonText": "ARIYALUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "COIMBATORE",
+        "id": "55",
+        "color": "#FFFF00",
+        "balloonText": "COIMBATORE :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "CUDDALORE",
+        "id": "61",
+        "color": "#FFFF00",
+        "balloonText": "CUDDALORE :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "DINDIGUL",
+        "id": "46",
+        "color": "#FFFF00",
+        "balloonText": "DINDIGUL :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "ERODE",
+        "id": "64",
+        "color": "#FFFF00",
+        "balloonText": "ERODE :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KANYAKUMARI",
+        "id": "30",
+        "color": "#FFFF00",
+        "balloonText": "KANYAKUMARI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KARUR",
+        "id": "49",
+        "color": "#FFFF00",
+        "balloonText": "KARUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KRISHNAGIRI",
+        "id": "75",
+        "color": "#FFFF00",
+        "balloonText": "KRISHNAGIRI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "MADURAI",
+        "id": "41",
+        "color": "#FFFF00",
+        "balloonText": "MADURAI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "NAMAKKAL",
+        "id": "59",
+        "color": "#FFFF00",
+        "balloonText": "NAMAKKAL :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "PUDUKKOTTAI",
+        "id": "44",
+        "color": "#FFFF00",
+        "balloonText": "PUDUKKOTTAI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "RAMANATHAPURAM",
+        "id": "32",
+        "color": "#FFFF00",
+        "balloonText": "RAMANATHAPURAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SALEM",
+        "id": "66",
+        "color": "#FFFF00",
+        "balloonText": "SALEM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SIVAGANGAI",
+        "id": "43",
+        "color": "#FFFF00",
+        "balloonText": "SIVAGANGAI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "THANJAVUR",
+        "id": "50",
+        "color": "#FFFF00",
+        "balloonText": "THANJAVUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "THIRUNELVELI",
+        "id": "35",
+        "color": "#FFFF00",
+        "balloonText": "THIRUNELVELI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "THIRUPPUR",
+        "id": "52",
+        "color": "#FFFF00",
+        "balloonText": "THIRUPPUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "THIRUVALLUR",
+        "id": "712",
+        "color": "#FFFF00",
+        "balloonText": "THIRUVALLUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "THIRUVANNAMALAI",
+        "id": "74",
+        "color": "#FFFF00",
+        "balloonText": "THIRUVANNAMALAI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "VELLORE",
+        "id": "79",
+        "color": "#FFFF00",
+        "balloonText": "VELLORE :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "VILLUPURAM",
+        "id": "69",
+        "color": "#FFFF00",
+        "balloonText": "VILLUPURAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "VIRUDHUNAGAR",
+        "id": "36",
+        "color": "#FFFF00",
+        "balloonText": "VIRUDHUNAGAR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "THIRUVARUR",
+        "id": "48",
+        "color": "#FFFF00",
+        "balloonText": "THIRUVARUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "THOOTHUKUDI",
+        "id": "34",
+        "color": "#FFFF00",
+        "balloonText": "THOOTHUKUDI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "THIRUCHIRAPALLI",
+        "id": "54",
+        "color": "#FFFF00",
+        "balloonText": "THIRUCHIRAPALLI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "PERAMBALUR",
+        "id": "57",
+        "color": "#FFFF00",
+        "balloonText": "PERAMBALUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "NILGIRIS",
+        "id": "60",
+        "color": "#FFFF00",
+        "balloonText": "NILGIRIS :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "PUDUCHERRY",
+        "id": "63",
+        "color": "#FFFF00",
+        "balloonText": "PUDUCHERRY :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "DHARMAPURI",
+        "id": "70",
+        "color": "#FFFF00",
+        "balloonText": "DHARMAPURI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "CHENNAI",
+        "id": "78",
+        "color": "#7CFC00",
+        "balloonText": "CHENNAI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "CHITTOOR",
+        "id": "85",
+        "color": "#FFFF00",
+        "balloonText": "CHITTOOR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "YSR KADAPA",
+        "id": "92",
+        "color": "#7CFC00",
+        "balloonText": "YSR KADAPA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "ANANTAPURAMU",
+        "id": "94",
+        "color": "#FFFF00",
+        "balloonText": "ANANTAPURAMU :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "GUNTUR",
+        "id": "108",
+        "color": "#FFFF00",
+        "balloonText": "GUNTUR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "VIZIANAGARAM",
+        "id": "150",
+        "color": "#FFFF00",
+        "balloonText": "VIZIANAGARAM :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "PASCHIM SINGHBHUMI",
+        "id": "241",
+        "color": "#7CFC00",
+        "balloonText": "PASCHIM SINGHBHUMI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SARAIKELA",
+        "id": "252",
+        "color": "#7CFC00",
+        "balloonText": "SARAIKELA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "HAZARIBAGH",
+        "id": "296",
+        "color": "#7CFC00",
+        "balloonText": "HAZARIBAGH :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KODARMA",
+        "id": "315",
+        "color": "#7CFC00",
+        "balloonText": "KODARMA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "GOODA",
+        "id": "341",
+        "color": "#7CFC00",
+        "balloonText": "GOODA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SAHEBGANJ",
+        "id": "348",
+        "color": "#7CFC00",
+        "balloonText": "SAHEBGANJ :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "MIRPUR",
+        "id": "694",
+        "color": "#7CFC00",
+        "balloonText": "MIRPUR :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "MUZAFFARABAD",
+        "id": "640",
+        "color": "#7CFC00",
+        "balloonText": "MUZAFFARABAD :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "PURBI SINGBHUMI",
+        "id": "722",
+        "color": "#7CFC00",
+        "balloonText": "PURBI SINGBHUMI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SHAHADRA",
+        "id": "636",
+        "color": "#7CFC00",
+        "balloonText": "SHAHADRA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SOUTH EAST DELHI",
+        "id": "637",
+        "color": "#7CFC00",
+        "balloonText": "SOUTH EAST DELHI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "BUDGAM",
+        "id": "642",
+        "color": "#7CFC00",
+        "balloonText": "BUDGAM :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "BANDIPORA",
+        "id": "644",
+        "color": "#7CFC00",
+        "balloonText": "BANDIPORA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "CHENGALPATTU",
+        "id": "681",
+        "color": "#FFFF00",
+        "balloonText": "CHENGALPATTU :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "DODA",
+        "id": "656",
+        "color": "#7CFC00",
+        "balloonText": "DODA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "GANDERBAL",
+        "id": "645",
+        "color": "#7CFC00",
+        "balloonText": "GANDERBAL :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KALLAKKURICHI",
+        "id": "682",
+        "color": "#FFFF00",
+        "balloonText": "KALLAKKURICHI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KARAIKAL",
+        "id": "675",
+        "color": "#FFFF00",
+        "balloonText": "KARAIKAL :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KISHTWAR",
+        "id": "655",
+        "color": "#7CFC00",
+        "balloonText": "KISHTWAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KULGAM",
+        "id": "646",
+        "color": "#7CFC00",
+        "balloonText": "KULGAM :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "KUPWARA",
+        "id": "648",
+        "color": "#7CFC00",
+        "balloonText": "KUPWARA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "RAJOURI",
+        "id": "650",
+        "color": "#7CFC00",
+        "balloonText": "RAJOURI :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "RAMBAN",
+        "id": "651",
+        "color": "#7CFC00",
+        "balloonText": "RAMBAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "RANIPPETTAI",
+        "id": "693",
+        "color": "#FFFF00",
+        "balloonText": "RANIPPETTAI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SAMBA",
+        "id": "658",
+        "color": "#7CFC00",
+        "balloonText": "SAMBA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SHOPIAN",
+        "id": "653",
+        "color": "#7CFC00",
+        "balloonText": "SHOPIAN :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "SRINAGAR",
+        "id": "654",
+        "color": "#7CFC00",
+        "balloonText": "SRINAGAR :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "TENKASI",
+        "id": "696",
+        "color": "#FFFF00",
+        "balloonText": "TENKASI :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "TIRUPPATTAR",
+        "id": "699",
+        "color": "#FFFF00",
+        "balloonText": "TIRUPPATTAR :<\/br><img src=warning_images\/03.png style='width: 28px ; height:28px;float: left;'><p>Thunderstorm & Lightning<\/p><\/img><p><\/p><p>Updated on:2022-03-25<\/p>"
+    },
+    {
+        "title": "PULWAMA",
+        "id": "649",
+        "color": "#7CFC00",
+        "balloonText": "PULWAMA :<\/br>No warning<p><\/p><p>Updated on:2022-03-25<\/p>"
+    }
+]
