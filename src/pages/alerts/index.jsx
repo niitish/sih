@@ -17,13 +17,6 @@ const Alerts = () => {
 		setWarnLevel(level);
 	};
 
-	useEffect(() => {
-		let a = data.filter((item) => item.warnLevel === 1);
-		let b = data.filter((item) => item.warnLevel === 2);
-		let c = data.filter((item) => item.warnLevel === 3);
-		console.log(a.length, b.length, c.length);
-	}, [data]);
-
 	return (
 		<Container>
 			<Row className="mt-4 justify-content-center">

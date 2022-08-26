@@ -33,22 +33,28 @@ const CreateAlert = () => {
 		setBtnTxt("Sending...");
 		event.preventDefault();
 		const tweetText = formData.current.value;
-		console.log(tweetText);
 
-		fetch("https://roomtemp.github.io/alert/create", {
-			method: "POST",
-			headers: {
-				"Content-Type": "application/json",
-				"Access-Control-Allow-Origin": "https://roomtemp.github.io",
-			},
-			body: JSON.stringify({ message: tweetText }),
-		})
-			.then(() => {
-				setBtnTxt("Sent!");
-			})
-			.catch((e) => {
-				setBtnTxt("Error");
-			});
+		fetch("https://sih22-backend-krysnl.herokuapp.com/send-sms"); //, {
+		// 	method: "POST",
+		// 	headers: {
+		// 		"Content-Type": "application/json",
+		// 	},
+		// 	body: JSON.stringify({ message: tweetText }),
+		// })
+		// 	.then(() => {
+		// 		setBtnTxt("Sent!");
+		// 	})
+		// 	.catch((e) => {
+		// 		setBtnTxt("Error");
+		// 	});
+
+		fetch("https://sih22-backend-krysnl.herokuapp.com/send-tweet"); //, {
+		// 	method: "POST",
+		// 	headers: {
+		// 		"Content-Type": "application/json",
+		// 	},
+		// 	body: JSON.stringify({ message: tweetText }),
+		// });
 	};
 
 	return (
@@ -92,13 +98,16 @@ const CreateAlert = () => {
 								ref={formData}
 							/>
 						</Form.Group>
-						<Form.Group className="mt-3">
+						{/* <Form.Group className="mt-3">
 							<Form.Label>Platforms</Form.Label>
 							<Form.Check type="checkbox" label={`SMS`} />
 							<Form.Check type="checkbox" label={`Twitter`} />
-							<Form.Check type="checkbox" label={`WhatsApp`} />
-						</Form.Group>
-						<Button variant="danger" type="submit" className="w-25 float-end">
+						</Form.Group> */}
+						<Button
+							variant="danger"
+							type="submit"
+							className="w-25 mt-3 float-end"
+						>
 							{btnTxt}
 						</Button>
 					</Form>
