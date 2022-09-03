@@ -27,34 +27,34 @@ const CreateAlert = () => {
 
 	const alertLevels = ["Red Alert", "Orange Alert", "Yellow Alert"];
 
-	const alertMessage = "test";
+	const alertMessage = alertLevels[warnLevel - 1] + " at " + title;
 
 	const alertHandler = (event) => {
 		setBtnTxt("Sending...");
 		event.preventDefault();
 		const tweetText = formData.current.value;
 
-		fetch("https://sih22-backend-krysnl.herokuapp.com/send-sms"); //, {
-		// 	method: "POST",
-		// 	headers: {
-		// 		"Content-Type": "application/json",
-		// 	},
-		// 	body: JSON.stringify({ message: tweetText }),
-		// })
-		// 	.then(() => {
-		// 		setBtnTxt("Sent!");
-		// 	})
-		// 	.catch((e) => {
-		// 		setBtnTxt("Error");
-		// 	});
+		fetch("http://10.30.69.19:5050/send-sms", {
+			method: "POST",
+			headers: {
+				"Content-Type": "application/json",
+			},
+			body: JSON.stringify({ message: tweetText }),
+		})
+			.then(() => {
+				setBtnTxt("Sent!");
+			})
+			.catch((e) => {
+				setBtnTxt("Error");
+			});
 
-		fetch("https://sih22-backend-krysnl.herokuapp.com/send-tweet"); //, {
-		// 	method: "POST",
-		// 	headers: {
-		// 		"Content-Type": "application/json",
-		// 	},
-		// 	body: JSON.stringify({ message: tweetText }),
-		// });
+		fetch("http://10.30.69.19:5050/send-tweet", {
+			method: "POST",
+			headers: {
+				"Content-Type": "application/json",
+			},
+			body: JSON.stringify({ message: tweetText }),
+		});
 	};
 
 	return (
